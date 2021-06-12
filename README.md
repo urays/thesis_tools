@@ -8,4 +8,6 @@
 
 ### TODO
 
+> 大家如果有相关的需求, 可以贴到 Issues (label:help wanted), 或发送邮箱至 uu.rays5@gmail.com。
+
 lalala...
